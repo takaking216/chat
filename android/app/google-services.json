@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78275783",
+    "firebase_url": "https://chat-fde3d.firebaseio.com",
+    "project_id": "chat-fde3d",
+    "storage_bucket": "chat-fde3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78275783:android:9e16fcde91fd2a815dcae2",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78275783-c950snsgup05ed4tfnii47o59n2pp8d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkhHp77X3NzNRL9rZFdCmbJX9bYZJnVdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78275783-c950snsgup05ed4tfnii47o59n2pp8d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
